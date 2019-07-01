@@ -6,9 +6,7 @@ web端：www.zhangc.info
 
 微信小程序：  
 
-### web端
-
-#### 技术栈
+#### web端
 
 * vue
 * vuex
